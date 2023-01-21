@@ -1,10 +1,7 @@
-<h1>
-  
+<h1 align="center">
+   <img src="https://raw.githubusercontent.com/TheShadowDragon/TheShadowDragon/main/Title.svg" alt="Title" height=85px/>
 </h1>
-### Top Notch Cool Guy 😎
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShadowDragon&layout=compact&theme=radical)](https://github.com/TheShadowDragon/github-readme-stats)
+<h2 align="center">Top Notch Cool Guy 😎</h2>
 
 ```C#
 using System;
@@ -25,7 +22,7 @@ public class AboutMe
 ```
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShadowDragon&layout=compact&theme=radical)](https://github.com/TheShadowDragon/github-readme-stats)
 
 
 # Visitor Count
