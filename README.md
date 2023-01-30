@@ -6,10 +6,8 @@
 ```C#
 using System;
 using System.Collections.Generic;
-public class AboutMe
-{
-    public static void Main(string[] args)
-    {
+public class AboutMe {
+    public static void Main(string[] args) {
         string whoAmI() {
             return "I am current a student learning about software development and getting my life together.";
         }
