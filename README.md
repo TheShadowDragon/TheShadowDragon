@@ -21,7 +21,6 @@ public class AboutMe {
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShadowDragon&layout=compact&theme=radical)](https://github.com/TheShadowDragon/github-readme-stats)
-![My Stats](https://github-readme-stats.vercel.app/api?username=TheShadowDragon&show_icons=true&theme=radical&count_private=true&line_height=20)
 
 
 
