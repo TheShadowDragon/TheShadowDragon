@@ -1,7 +1,4 @@
-<h1 align="center">
-   <img src="https://raw.githubusercontent.com/TheShadowDragon/TheShadowDragon/main/Title.svg" alt="Title" height=85px/>
-</h1>
-<h2 align="center">Top Notch Cool Guy 😎</h2>
+
 
 ```C#
 using System;
